@@ -1,0 +1,5 @@
+ |00| SET R0 , 0x00
+ |02| SET R1 , 0XFF
+ |04| NEG R1
+ |06| SIG R0
+ |08| MIX R0 , R1
